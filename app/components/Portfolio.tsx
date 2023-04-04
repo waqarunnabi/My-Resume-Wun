@@ -17,12 +17,12 @@ export const Portfolio = () => {
                             </div>
                             <div className="flex justify-between px-5 text-black">
                                 <button className="p-4 hover:scale-120 duration-200 hover:font-bold">
-                                    <a href="https://google.com" target={"_blank"}>
+                                    <a href="https://resume-waqarunnabi.vercel.app/" target={"_blank"}>
                                         Demo
                                     </a>
                                 </button>
                                 <button className="p-4 hover:scale-120 duration-200 hover:font-bold">
-                                    <a href="https://google.com" target={"_blank"}>
+                                    <a href="https://github.com/waqarunnabi/my-resume-wun" target={"_blank"}>
                                         Code
                                     </a>
                                 </button>
@@ -40,12 +40,12 @@ export const Portfolio = () => {
                             </div>
                             <div className="flex justify-between px-5 text-black">
                                 <button className="p-4 hover:scale-120 duration-200 hover:font-bold">
-                                    <a href="https://google.com" target={"_blank"}>
+                                    <a href="https://resume-waqarunnabi.vercel.app/" target={"_blank"}>
                                         Demo
                                     </a>
                                 </button>
                                 <button className="p-4 hover:scale-120 duration-200 hover:font-bold">
-                                    <a href="https://google.com" target={"_blank"}>
+                                    <a href="https://github.com/waqarunnabi/my-resume-wun" target={"_blank"}>
                                         Code
                                     </a>
                                 </button>
@@ -63,12 +63,12 @@ export const Portfolio = () => {
                             </div>
                             <div className="flex justify-between px-5 text-black">
                                 <button className="p-4 hover:scale-120 duration-200 hover:font-bold">
-                                    <a href="https://google.com" target={"_blank"}>
+                                    <a href="https://resume-waqarunnabi.vercel.app/" target={"_blank"}>
                                         Demo
                                     </a>
                                 </button>
                                 <button className="p-4 hover:scale-120 duration-200 hover:font-bold">
-                                    <a href="https://google.com" target={"_blank"}>
+                                    <a href="https://github.com/waqarunnabi/my-resume-wun" target={"_blank"}>
                                         Code
                                     </a>
                                 </button>
