@@ -6,7 +6,7 @@ import { RxCross2 } from 'react-icons/rx';
 RxCross2
 
 export const Header = () => {
-  const [toggle, setToggle] = useState(false);
+  const [toggle, setToggle] = useState(true);
   return (
     <section className="bg-gradient-to-t from-cyan-600 to-cyan-800 text-white">
       <div className="flex justify-between">
