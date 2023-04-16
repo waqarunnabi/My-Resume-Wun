@@ -12,7 +12,7 @@ export const Skills = () => {
                 <div className=" px-10 mt-32 mx-auto">
                     <h1 className="text-center text-4xl text-black mb-10">Skills</h1>
 
-                    <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-20">
+                    <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 gap-20">
                         {/* skill 1 */}
                         <div className=" p-5 ">
                             <img
