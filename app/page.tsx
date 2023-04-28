@@ -5,7 +5,7 @@ import {Header} from './components/Header'
 import HomeIntro from './components/HomeIntro'
 import { Socialicons } from './components/Socialicons'
 import { About } from './components/About'
-import { Portfolio } from './components/Portfolio'
+import { Projects } from './components/Projects'
 import { Skills } from './components/Skills'
 import Contact from './components/Contact'
 
@@ -18,8 +18,8 @@ export default function Home() {
     <Header />
     <HomeIntro />
     <About />
-    <Portfolio />
     <Skills />
+    <Projects />
     <Contact />
   
     </>

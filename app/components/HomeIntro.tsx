@@ -3,7 +3,7 @@ import { MdKeyboardArrowRight } from 'react-icons/md';
 
 export default function HomeIntro() {
     return (
-        <section className="max-w-4xl mx-auto flex md:flex-row flex-col mt-5">
+        <section id="home" className="max-w-4xl mx-auto flex md:flex-row flex-col mt-5">
             {/* {left div start} */}
             <div className="p-5">
 

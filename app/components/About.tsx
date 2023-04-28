@@ -2,7 +2,7 @@ import React from 'react'
 
 export const About = () => {
     return (
-        <section className="max-w-6xl mx-auto p-5 items-center w-screen">
+        <section id="about" className=" ml-5 max-w-6xl mx-auto p-5 items-center w-screen">
             <div>
                 <h1 className=" text-center mb-5 mt-10">About Me</h1>
                 <p className='text-justify'>

@@ -8,6 +8,9 @@
   h1 {
     @apply text-sm  sm:text-lg md:text-2xl lg:text-4xl font-bold;
   }
+  html{
+     scroll-behavior: smooth;
+  }
 }
 
 /* :root {
