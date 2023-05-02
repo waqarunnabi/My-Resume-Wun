@@ -41,7 +41,7 @@ export default function Contact() {
                         </div>
                         <button
                             type="submit"
-                            className="mx-auto block items-center py-2 px-4 rounded-xl bg-gradient-to-b from-cyan-600 to-cyan-800">
+                            className="mx-auto block items-center py-2 px-4 rounded-xl bg-gradient-to-r from-cyan-600 to-cyan-800 hover:from-green-500 hover:to-cyan-600">
                             Submit
                         </button>
                     </form>

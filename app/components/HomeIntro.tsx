@@ -14,7 +14,7 @@ export default function HomeIntro() {
                 With a strong problem-solving ability and a collaborative approach, I am committed to delivering top-quality work that meets the highest standards of excellence.
                 My dedication to staying up-to-date with the latest technologies ensures that my clients always receive cutting-edge solutions.
                </p>
-                <button className=" group flex items-center py-2 px-4 my-2 rounded-xl bg-gradient-to-b from-cyan-600 to-cyan-800">
+                <button className=" group flex items-center py-2 px-4 my-2 rounded-xl bg-gradient-to-r from-cyan-600 to-cyan-800 hover:from-cyan-600 hover:to-cyan-400">
                     Profile
                     <MdKeyboardArrowRight size={20} className="group-hover:rotate-90 duration-500" />
                 </button>
