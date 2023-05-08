@@ -1,5 +1,6 @@
 import React from 'react';
 import { MdKeyboardArrowRight } from 'react-icons/md';
+import { About } from './About';
 
 export default function HomeIntro() {
     return (
@@ -15,8 +16,8 @@ export default function HomeIntro() {
                 My dedication to staying up-to-date with the latest technologies ensures that my clients always receive cutting-edge solutions.
                </p>
                 <button className=" group flex items-center py-2 px-4 my-2 rounded-xl bg-gradient-to-r from-cyan-600 to-cyan-800 hover:from-cyan-600 hover:to-cyan-400">
-                    Profile
-                    <MdKeyboardArrowRight size={20} className="group-hover:rotate-90 duration-500" />
+                    <a href="#about">Profile </a>
+                    <MdKeyboardArrowRight size={20} className="group-hover:rotate-90 duration-500" href="#about"/>
                 </button>
             </div>
             {/* {left div end} */}
@@ -28,4 +29,5 @@ export default function HomeIntro() {
             {/* {right div end} */}
         </section>
     )
+    
 }

@@ -14,6 +14,9 @@ module.exports = {
     fontFamily: {
       Italianno: ["'Italianno', cursive;"],
     },
+    gradientColorStopPositions: {
+      33: '33%',
+    }
   },
   plugins: [],
 }
